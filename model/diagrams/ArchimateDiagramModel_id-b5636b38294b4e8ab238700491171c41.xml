@@ -157,6 +157,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-2c4926b139e4447cb65704314c0c9a8c.xml#id-2c4926b139e4447cb65704314c0c9a8c"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-4f8054f4a7174c31a90e96827c725a70"
+        source="id-2c8cd86646e04ed682ff419daed76d4c"
+        target="id-8ffd225aec9248e794e96e0078923a42">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-df1eb0395e1943e082888e2ebcd73cdb.xml#id-df1eb0395e1943e082888e2ebcd73cdb"/>
+    </sourceConnections>
     <bounds
         x="70"
         y="336"
@@ -175,6 +184,15 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-55ef390876f247baa0e5d2b59f2706e5.xml#id-55ef390876f247baa0e5d2b59f2706e5"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-e267cb95dc6146f28bf2c799f124f00f"
+          source="id-3595c5ee1fcb4cbba97ed671eb7fe52d"
+          target="id-8ffd225aec9248e794e96e0078923a42">
+        <archimateRelationship
+            xsi:type="archimate:AccessRelationship"
+            href="AccessRelationship_id-254b191c965840dc99e859f2845765b4.xml#id-254b191c965840dc99e859f2845765b4"/>
+      </sourceConnections>
       <bounds
           x="36"
           y="48"
@@ -183,6 +201,19 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-25704eb63ef541c0a31b9ff2aa9ac290.xml#id-25704eb63ef541c0a31b9ff2aa9ac290"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-8ffd225aec9248e794e96e0078923a42"
+        targetConnections="id-4f8054f4a7174c31a90e96827c725a70 id-e267cb95dc6146f28bf2c799f124f00f">
+      <bounds
+          x="252"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
