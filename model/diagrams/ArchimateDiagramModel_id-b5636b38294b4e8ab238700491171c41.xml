@@ -1,0 +1,32 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping T3D kennismodel op Common Ground"
+    id="id-b5636b38294b4e8ab238700491171c41">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b8695b197705425b979c646495161158"
+      textAlignment="1">
+    <bounds
+        x="144"
+        y="60"
+        width="396"
+        height="121"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-278dc48d5749435f93e7cc24a0481a95.xml#id-278dc48d5749435f93e7cc24a0481a95"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c622b921d9ff40fab8b1cdac32256b4c"
+      textAlignment="1">
+    <bounds
+        x="140"
+        y="217"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-f0f6e6ee4801461ea8ab5f16a679ed97.xml#id-f0f6e6ee4801461ea8ab5f16a679ed97"/>
+  </children>
+</archimate:ArchimateDiagramModel>

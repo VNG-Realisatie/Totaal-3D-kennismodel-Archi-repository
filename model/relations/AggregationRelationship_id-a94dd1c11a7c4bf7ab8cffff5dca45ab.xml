@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is onderdeel van"
+    id="id-a94dd1c11a7c4bf7ab8cffff5dca45ab">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f580ee94b15e43169c78c8df7298b0ad.xml#id-f580ee94b15e43169c78c8df7298b0ad"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d030da1d7c6a4e8eaaa2e4c1e6f40c22.xml#id-d030da1d7c6a4e8eaaa2e4c1e6f40c22"/>
+</archimate:AggregationRelationship>
