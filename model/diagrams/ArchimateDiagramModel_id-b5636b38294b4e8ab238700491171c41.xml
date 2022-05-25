@@ -44,10 +44,10 @@
             href="AccessRelationship_id-10c32bdfb4e44e348f15bcee68333d0a.xml#id-10c32bdfb4e44e348f15bcee68333d0a"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="228"
           y="36"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-3ffb276023814a8aa5d18586c5d3304b.xml#id-3ffb276023814a8aa5d18586c5d3304b"/>
@@ -57,10 +57,10 @@
         id="id-e584e771615143c4b157f1252299d90e"
         targetConnections="id-29bc478740524ebf9bb105837a65224b id-5f3978180b9943c6a2466bd2881a5e6e">
       <bounds
-          x="468"
+          x="444"
           y="36"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-0a4bf13242a44c81acf91689be5d6013.xml#id-0a4bf13242a44c81acf91689be5d6013"/>
@@ -137,10 +137,10 @@
             href="AccessRelationship_id-2ee51715d7514918a5cbfda075a5f1e6.xml#id-2ee51715d7514918a5cbfda075a5f1e6"/>
       </sourceConnections>
       <bounds
-          x="251"
+          x="227"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-5ea46224ac95478391cdc6cd846b8056.xml#id-5ea46224ac95478391cdc6cd846b8056"/>
@@ -150,10 +150,10 @@
         id="id-ace63fa88ffa4575bff6d168d0fa0912"
         targetConnections="id-9161cbcedaab40fc9bac7e04b37fd1c1 id-616c10776a2945599c23c74b24f8ca36">
       <bounds
-          x="468"
+          x="444"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-8b39afec58164e2b88a87b6bb664a093.xml#id-8b39afec58164e2b88a87b6bb664a093"/>
@@ -163,10 +163,10 @@
         id="id-0aa4e5d46a594d7b9c72448c090cff55"
         targetConnections="id-13fd3a7835624becaad8c2f65a42ef51 id-f185d4d96d5c4313a0167e5346564d53">
       <bounds
-          x="48"
+          x="24"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-b1f1d497875f47bcb793e8bf8c3f9549.xml#id-b1f1d497875f47bcb793e8bf8c3f9549"/>
@@ -243,10 +243,10 @@
             href="AccessRelationship_id-742834c6433b4c3082e63c198bc2e022.xml#id-742834c6433b4c3082e63c198bc2e022"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="228"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-25704eb63ef541c0a31b9ff2aa9ac290.xml#id-25704eb63ef541c0a31b9ff2aa9ac290"/>
@@ -256,10 +256,10 @@
         id="id-8ffd225aec9248e794e96e0078923a42"
         targetConnections="id-4f8054f4a7174c31a90e96827c725a70 id-e267cb95dc6146f28bf2c799f124f00f">
       <bounds
-          x="468"
+          x="444"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
@@ -269,10 +269,10 @@
         id="id-8310e789079b43ce9c368621de415c69"
         targetConnections="id-c164cad28bd24fa2b498c5281e3c2174 id-5634cb6c53e64913beeb2025ed62ac78">
       <bounds
-          x="48"
+          x="24"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-dac7c7d6e1df40b3a5b7f28f0a9a90ad.xml#id-dac7c7d6e1df40b3a5b7f28f0a9a90ad"/>
@@ -313,10 +313,10 @@
         id="id-04dadbb86ec5444e9c75ad0875e83e52"
         targetConnections="id-a15514256f73437e9f0a90ce9d24bccd id-d296a31712d443c591d4f774fb6e7c5d">
       <bounds
-          x="468"
+          x="444"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
@@ -344,10 +344,10 @@
             href="ServingRelationship_id-99c5df2780a7469f9ac980368156048e.xml#id-99c5df2780a7469f9ac980368156048e"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="228"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationInterface"
           href="ApplicationInterface_id-dd53a4bc8563402394059ee5c0ad7747.xml#id-dd53a4bc8563402394059ee5c0ad7747"/>
@@ -406,10 +406,10 @@
             href="AccessRelationship_id-888b9f820e63482fa9cf956e24e68aec.xml#id-888b9f820e63482fa9cf956e24e68aec"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="228"
           y="48"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-6a80206354e544038579c0b6f27224a9.xml#id-6a80206354e544038579c0b6f27224a9"/>
@@ -419,10 +419,10 @@
         id="id-a54cb951739942d48ff79f8f752e88dc"
         targetConnections="id-e87deb817a244eeb910be4bc0bfdfa5a id-c3acf034210b4500a18b02c4f59791b7">
       <bounds
-          x="468"
+          x="444"
           y="50"
-          width="120"
-          height="55"/>
+          width="144"
+          height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-8b39afec58164e2b88a87b6bb664a093.xml#id-8b39afec58164e2b88a87b6bb664a093"/>
