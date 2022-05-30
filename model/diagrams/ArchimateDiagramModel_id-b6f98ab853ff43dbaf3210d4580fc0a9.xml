@@ -445,14 +445,14 @@
         source="id-7693cd2e936740a78f173c7ad7a1846a"
         target="id-8366746805d048aa842848e7f73709b9">
       <bendpoints
-          startY="81"
+          startY="93"
           endX="166"
-          endY="46"/>
+          endY="58"/>
       <bendpoints
           startX="-144"
-          startY="81"
+          startY="93"
           endX="22"
-          endY="46"/>
+          endY="58"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-f738aef6a8b8455f923ba370cd78ef9f.xml#id-f738aef6a8b8455f923ba370cd78ef9f"/>
