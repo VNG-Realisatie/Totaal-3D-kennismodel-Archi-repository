@@ -498,7 +498,7 @@
       id="id-4e56b8389ce846b197b6b3766044a3f9"
       textAlignment="1"
       fillColor="#fefc78"
-      content="verwerkingen logging (zie Gemmaonline) kom ook op deze laag terug">
+      content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
         x="744"
         y="60"
@@ -510,9 +510,9 @@
       id="id-c31c52af4f764681a6eb87777c89add4"
       textAlignment="1"
       fillColor="#fefc78"
-      content="verwerkingen logging (zie Gemmaonline) kom ook op deze laag terug">
+      content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
-        x="732"
+        x="744"
         y="720"
         width="157"
         height="73"/>
@@ -526,6 +526,30 @@
     <bounds
         x="744"
         y="192"
+        width="157"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-15c7a262938b42ca9093392c380a75b0"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Zie NLX voor voorbeelden van componenten op deze laag.">
+    <bounds
+        x="744"
+        y="372"
+        width="157"
+        height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b9a68eeb18a24046aec68855fa81851d"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Zie Haal-Centraal voor voorbeelden van componenten op deze laag.">
+    <bounds
+        x="744"
+        y="540"
         width="157"
         height="85"/>
   </children>
