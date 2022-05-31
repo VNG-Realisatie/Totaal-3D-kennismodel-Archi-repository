@@ -501,7 +501,7 @@
       content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
         x="744"
-        y="60"
+        y="48"
         width="157"
         height="73"/>
   </children>
@@ -513,7 +513,7 @@
       content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
         x="744"
-        y="720"
+        y="705"
         width="157"
         height="73"/>
   </children>
@@ -525,7 +525,7 @@
       content="Uitzoeken hoe om te gaan met gegevens die een resultaat zijn van een bewerking op deze laag">
     <bounds
         x="744"
-        y="192"
+        y="195"
         width="157"
         height="85"/>
   </children>
@@ -534,10 +534,10 @@
       id="id-15c7a262938b42ca9093392c380a75b0"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Zie NLX voor voorbeelden van componenten op deze laag.">
+      content="Zie NLX voor voorbeelden van componenten op deze laag. (Inway en Outway o.a.)">
     <bounds
         x="744"
-        y="372"
+        y="363"
         width="157"
         height="85"/>
   </children>
@@ -546,10 +546,10 @@
       id="id-b9a68eeb18a24046aec68855fa81851d"
       textAlignment="1"
       fillColor="#fefc78"
-      content="Zie Haal-Centraal voor voorbeelden van componenten op deze laag.">
+      content="Zie Haal-Centraal voor voorbeelden van koppelvlakken (API's)  op deze laag.">
     <bounds
         x="744"
-        y="540"
+        y="531"
         width="157"
         height="85"/>
   </children>
