@@ -1,0 +1,10 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Totaal 3D metamodel"
+    id="id-65a741abcad9436d83271d42070b88df"
+    version="4.9.0">
+  <profiles
+      name="Logisch presentatie component"
+      id="id-14d3ab4752b248bf937143f9e3ab8b7c"
+      conceptType="ApplicationComponent"/>
+</archimate:ArchimateModel>

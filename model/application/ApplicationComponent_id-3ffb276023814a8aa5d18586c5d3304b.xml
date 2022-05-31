@@ -1,0 +1,7 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logisch presentatie / interactie component"
+    id="id-3ffb276023814a8aa5d18586c5d3304b">
+  <profiles
+      href="folder.xml#id-14d3ab4752b248bf937143f9e3ab8b7c"/>
+</archimate:ApplicationComponent>

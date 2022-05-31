@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bevat"
+    id="id-a9912b96af954938bb658c1de46c3551">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-0a4bf13242a44c81acf91689be5d6013.xml#id-0a4bf13242a44c81acf91689be5d6013"/>
+</archimate:AggregationRelationship>

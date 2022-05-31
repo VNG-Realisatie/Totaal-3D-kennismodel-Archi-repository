@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verspreid"
+    id="id-254b191c965840dc99e859f2845765b4"
+    accessType="2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-25704eb63ef541c0a31b9ff2aa9ac290.xml#id-25704eb63ef541c0a31b9ff2aa9ac290"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
+</archimate:AccessRelationship>
