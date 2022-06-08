@@ -488,4 +488,48 @@
         xsi:type="archimate:ApplicationProcess"
         href="ApplicationProcess_id-aa554620beae4def948c695ea80618e7.xml#id-aa554620beae4def948c695ea80618e7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ba94063eaa264d9f9d6545e6d028324b"
+      textAlignment="1"
+      content="JSt: Voorzien wij (moeten wij voorzien) een ketenregisseur (een actor en rol die eigenaar is van het ketenproces)? ">
+    <bounds
+        x="415"
+        y="46"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8a4727600a3a47f88db47c3956519458"
+      textAlignment="1"
+      content="JSt: in lijn met https://trello.com/c/VphiQV7c moet hier dan ook een constraint bij over de API standaarden?">
+    <bounds
+        x="208"
+        y="729"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ae3926a3b4f84d8e93eaf7d2eeafb604"
+      textAlignment="1"
+      content="JSt: heeft het bericht ook niet een constraint voor het format?">
+    <bounds
+        x="840"
+        y="660"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-120933746f4b4b58978dd9b0297f7dcb"
+      textAlignment="1"
+      content="JSt. In dit kennismodel zitten nu geen componenten voor de infrastructuur, zoals storage en (typen) databases. Is het zinvol/ wenselijk om dat nog toe te voegen?">
+    <bounds
+        x="1061"
+        y="376"
+        width="185"
+        height="111"/>
+  </children>
 </archimate:ArchimateDiagramModel>
