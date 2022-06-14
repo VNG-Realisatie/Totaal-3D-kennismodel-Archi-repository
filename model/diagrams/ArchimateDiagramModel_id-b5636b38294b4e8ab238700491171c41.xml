@@ -35,8 +35,7 @@
           href="AggregationRelationship_id-92cf469d363e431284d57dd35fcd7443.xml#id-92cf469d363e431284d57dd35fcd7443"/>
     </sourceConnections>
     <bounds
-        x="72"
-        y="24"
+        x="70"
         width="612"
         height="121"/>
     <children
@@ -132,8 +131,8 @@
           href="AggregationRelationship_id-5c2cc2d0daf84f969f1ac93e990d5136.xml#id-5c2cc2d0daf84f969f1ac93e990d5136"/>
     </sourceConnections>
     <bounds
-        x="70"
-        y="168"
+        x="68"
+        y="144"
         width="616"
         height="140"/>
     <children
@@ -237,24 +236,24 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-95492a0465804e208cddd32aca1e6739.xml#id-95492a0465804e208cddd32aca1e6739"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e98f281cda9040f3a54c6adb4ec1985d"
+        source="id-2c8cd86646e04ed682ff419daed76d4c"
+        target="id-f0d8cdf8e95c4efb9ac9012aead072f5">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-a2baec620f9a424ea2af13ab382aa89c.xml#id-a2baec620f9a424ea2af13ab382aa89c"/>
+    </sourceConnections>
     <bounds
-        x="70"
-        y="336"
+        x="68"
+        y="312"
         width="616"
-        height="140"/>
+        height="224"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-3595c5ee1fcb4cbba97ed671eb7fe52d"
         targetConnections="id-34d8f9943b6d4bffbcc13f94b683eb6f id-85f4f70de6ed4619a7e43896ed9e1f76">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-66d58b68c35d46af98e7649676914100"
-          source="id-3595c5ee1fcb4cbba97ed671eb7fe52d"
-          target="id-35b4405111fa435ca95cf0760daf745f">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-55ef390876f247baa0e5d2b59f2706e5.xml#id-55ef390876f247baa0e5d2b59f2706e5"/>
-      </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e267cb95dc6146f28bf2c799f124f00f"
@@ -273,9 +272,18 @@
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-fd4ab938ee1b4a86b0174e24b0cedc06.xml#id-fd4ab938ee1b4a86b0174e24b0cedc06"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-8c06763ab47d42b9b33188f90fafec2f"
+          source="id-3595c5ee1fcb4cbba97ed671eb7fe52d"
+          target="id-f0d8cdf8e95c4efb9ac9012aead072f5">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-3576eb9c0f4e48cea34fcb5547b5acb7.xml#id-3576eb9c0f4e48cea34fcb5547b5acb7"/>
+      </sourceConnections>
       <bounds
           x="228"
-          y="48"
+          y="132"
           width="144"
           height="60"/>
       <archimateElement
@@ -288,7 +296,7 @@
         targetConnections="id-4f8054f4a7174c31a90e96827c725a70 id-e267cb95dc6146f28bf2c799f124f00f">
       <bounds
           x="444"
-          y="48"
+          y="132"
           width="144"
           height="60"/>
       <archimateElement
@@ -301,12 +309,34 @@
         targetConnections="id-d4b0731aa28e4f888135de24770234d6 id-b4991677e50f4e30851c28210b95efa4">
       <bounds
           x="24"
-          y="48"
+          y="132"
           width="144"
           height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-b1f1d497875f47bcb793e8bf8c3f9549.xml#id-b1f1d497875f47bcb793e8bf8c3f9549"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f0d8cdf8e95c4efb9ac9012aead072f5"
+        targetConnections="id-e98f281cda9040f3a54c6adb4ec1985d id-8c06763ab47d42b9b33188f90fafec2f">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-66d58b68c35d46af98e7649676914100"
+          source="id-f0d8cdf8e95c4efb9ac9012aead072f5"
+          target="id-35b4405111fa435ca95cf0760daf745f">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-55ef390876f247baa0e5d2b59f2706e5.xml#id-55ef390876f247baa0e5d2b59f2706e5"/>
+      </sourceConnections>
+      <bounds
+          x="228"
+          y="36"
+          width="144"
+          height="60"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_id-dd53a4bc8563402394059ee5c0ad7747.xml#id-dd53a4bc8563402394059ee5c0ad7747"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -335,8 +365,8 @@
           href="CompositionRelationship_id-f3292ee785694889bbf7192cb16a1605.xml#id-f3292ee785694889bbf7192cb16a1605"/>
     </sourceConnections>
     <bounds
-        x="70"
-        y="504"
+        x="68"
+        y="564"
         width="616"
         height="140"/>
     <children
@@ -355,7 +385,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-354251fb374347218e7e43acfc3ddc4b"
-        targetConnections="id-6faed29e03484e9996800ef6c0f9743b id-41646bf7cab746d0852513e4fa46a77c">
+        targetConnections="id-6faed29e03484e9996800ef6c0f9743b id-847441ee8d314d4ea59b2512d26457b6">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d296a31712d443c591d4f774fb6e7c5d"
@@ -419,8 +449,8 @@
           href="AggregationRelationship_id-ad0d966c549f422a805abeaf40184374.xml#id-ad0d966c549f422a805abeaf40184374"/>
     </sourceConnections>
     <bounds
-        x="68"
-        y="672"
+        x="66"
+        y="732"
         width="616"
         height="140"/>
     <children
@@ -447,12 +477,12 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-41646bf7cab746d0852513e4fa46a77c"
+          id="id-847441ee8d314d4ea59b2512d26457b6"
           source="id-6a09b4feec2f460da2e2a97e1c2513f3"
           target="id-354251fb374347218e7e43acfc3ddc4b">
         <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_id-79d18a3bbef04f5a8ebe686483e4fad5.xml#id-79d18a3bbef04f5a8ebe686483e4fad5"/>
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-ef2d1765037d43ac8621b85d2621fff2.xml#id-ef2d1765037d43ac8621b85d2621fff2"/>
       </sourceConnections>
       <bounds
           x="228"
@@ -500,8 +530,8 @@
       fillColor="#fefc78"
       content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
-        x="744"
-        y="48"
+        x="742"
+        y="24"
         width="157"
         height="73"/>
   </children>
@@ -512,8 +542,8 @@
       fillColor="#fefc78"
       content="verwerkingen logging (zie Gemmaonline) komt ook op deze laag terug">
     <bounds
-        x="744"
-        y="705"
+        x="742"
+        y="765"
         width="157"
         height="73"/>
   </children>
@@ -524,8 +554,8 @@
       fillColor="#fefc78"
       content="Uitzoeken hoe om te gaan met gegevens die een resultaat zijn van een bewerking op deze laag">
     <bounds
-        x="744"
-        y="195"
+        x="742"
+        y="171"
         width="157"
         height="85"/>
   </children>
@@ -536,8 +566,8 @@
       fillColor="#fefc78"
       content="Zie NLX voor voorbeelden van componenten op deze laag. (Inway en Outway o.a.)">
     <bounds
-        x="744"
-        y="363"
+        x="742"
+        y="423"
         width="157"
         height="85"/>
   </children>
@@ -548,8 +578,8 @@
       fillColor="#fefc78"
       content="Zie Haal-Centraal voor voorbeelden van koppelvlakken (API's)  op deze laag.">
     <bounds
-        x="744"
-        y="531"
+        x="742"
+        y="591"
         width="157"
         height="85"/>
   </children>
