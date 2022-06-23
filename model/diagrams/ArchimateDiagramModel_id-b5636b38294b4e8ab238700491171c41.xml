@@ -142,6 +142,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4856d0c937d040feb6fa3a73df03a214"
+          targetConnections="id-37b9864e5f98421c81ea3d3bc18d93b6"
           source="id-35b4405111fa435ca95cf0760daf745f"
           target="id-abb2714cedc14438954112ff1e7fb87a">
         <archimateRelationship
@@ -582,5 +583,21 @@
         y="591"
         width="157"
         height="85"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a3e7afc2171b414aa8095a1780526eb4"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Ook sprake van koppelvlakken? Webservices zijn een goed voorbeeld van koppelvlakken waarbij functionaliteit als microservice bijvoorbeeld wordt aangeboden.">
+    <sourceConnections
+        id="id-37b9864e5f98421c81ea3d3bc18d93b6"
+        source="id-a3e7afc2171b414aa8095a1780526eb4"
+        target="id-4856d0c937d040feb6fa3a73df03a214"/>
+    <bounds
+        x="943"
+        y="84"
+        width="186"
+        height="121"/>
   </children>
 </archimate:ArchimateDiagramModel>
