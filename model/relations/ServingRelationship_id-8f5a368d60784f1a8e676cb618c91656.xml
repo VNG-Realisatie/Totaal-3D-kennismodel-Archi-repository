@@ -4,8 +4,8 @@
     name="ondersteund"
     id="id-8f5a368d60784f1a8e676cb618c91656">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5ea46224ac95478391cdc6cd846b8056.xml#id-5ea46224ac95478391cdc6cd846b8056"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-dd53a4bc8563402394059ee5c0ad7747.xml#id-dd53a4bc8563402394059ee5c0ad7747"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3ffb276023814a8aa5d18586c5d3304b.xml#id-3ffb276023814a8aa5d18586c5d3304b"/>
