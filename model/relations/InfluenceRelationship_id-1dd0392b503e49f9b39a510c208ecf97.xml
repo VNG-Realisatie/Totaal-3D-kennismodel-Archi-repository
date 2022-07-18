@@ -1,0 +1,12 @@
+<archimate:InfluenceRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="voldoet aan"
+    id="id-1dd0392b503e49f9b39a510c208ecf97">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>
+  <target
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-16efb33c17a54d1aaca46effdfa282cc.xml#id-16efb33c17a54d1aaca46effdfa282cc"/>
+</archimate:InfluenceRelationship>

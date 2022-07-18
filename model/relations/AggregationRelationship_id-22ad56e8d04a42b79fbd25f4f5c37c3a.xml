@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is aggregatie van"
+    id="id-22ad56e8d04a42b79fbd25f4f5c37c3a">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
+</archimate:AggregationRelationship>
