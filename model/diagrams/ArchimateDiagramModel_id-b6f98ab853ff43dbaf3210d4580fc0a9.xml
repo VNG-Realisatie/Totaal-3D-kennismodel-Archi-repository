@@ -586,11 +586,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-120933746f4b4b58978dd9b0297f7dcb"
       textAlignment="1"
-      content="JSt. In dit kennismodel zitten nu geen componenten voor de infrastructuur, zoals storage en (typen) databases. Is het zinvol/ wenselijk om dat nog toe te voegen?">
+      content="JSt. In dit kennismodel zitten nu geen componenten voor de infrastructuur, zoals storage en (typen) databases. Is het zinvol/ wenselijk om dat nog toe te voegen?&#xA;&#xA;BdD: op dit moment bevat GEMMA nog geen referentie architectuur voor de technologie laag. Ik heb dit wel recent opgeleverd voor de VeRA (Veiligheidsregio Referentie Architectuur) en voorgesteld bij GEMMA. Zie ook: https://www.veraonline.nl/index.php/VeRA2.0(IFVversie)/id-8db594ed-517c-4e7ba-6b64-ca338aca351">
     <bounds
-        x="1061"
-        y="376"
-        width="185"
-        height="111"/>
+        x="1056"
+        y="264"
+        width="265"
+        height="241"/>
   </children>
 </archimate:ArchimateDiagramModel>
