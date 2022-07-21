@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SOR Object"
+    id="id-281dcdd6057a4ad98248f1f0589affe0"
+    documentation="Object definitie op basis van de SOR objecten">
+  <profiles
+      href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
+</archimate:BusinessObject>

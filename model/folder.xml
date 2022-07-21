@@ -7,4 +7,8 @@
       name="Logisch presentatie component"
       id="id-14d3ab4752b248bf937143f9e3ab8b7c"
       conceptType="ApplicationComponent"/>
+  <profiles
+      name="Bedrijfsobject"
+      id="id-ab4d9d386e77413281dc774860e2687a"
+      conceptType="BusinessObject"/>
 </archimate:ArchimateModel>

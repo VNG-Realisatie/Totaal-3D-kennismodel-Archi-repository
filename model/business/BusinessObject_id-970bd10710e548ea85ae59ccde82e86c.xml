@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Object 3D geometrie"
+    id="id-970bd10710e548ea85ae59ccde82e86c"
+    documentation="3D Coordinaten (x,y,z) van een objectype op maaiveld niveau. Voor de coordinaten op maaiveld niveau zijn de coordinaten zoals vastegelegd in het Object 2D geometrie leidend.">
+  <profiles
+      href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
+</archimate:BusinessObject>
