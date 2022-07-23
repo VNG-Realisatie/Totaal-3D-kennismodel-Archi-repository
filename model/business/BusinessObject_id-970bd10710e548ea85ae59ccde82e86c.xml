@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Object 3D geometrie"
     id="id-970bd10710e548ea85ae59ccde82e86c"
-    documentation="3D Coordinaten (x,y,z) van een objectype op maaiveld niveau. Voor de coordinaten op maaiveld niveau zijn de coordinaten zoals vastegelegd in het Object 2D geometrie leidend.">
+    documentation="3D geometrie van een objectype. Voor de coordinaten op maaiveld niveau zijn de coordinaten zoals vastegelegd in het Object 2D geometrie leidend. Door het 3D object te relateren aan het 2D object ontstaat een sluitende vastlegging van 3D, 2D Object en SOR objectregistratie">
   <profiles
       href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
 </archimate:BusinessObject>

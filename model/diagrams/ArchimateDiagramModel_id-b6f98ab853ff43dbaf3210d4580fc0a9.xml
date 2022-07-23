@@ -116,7 +116,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b33f7c0d8fe4900b91e14c1a11ffe95"
-      targetConnections="id-06c49d4ca0ef442f813208fecc551087 id-47b7d51f502044d9a6d23151a11c5e8e id-766a45aee82a41c4a26d6b0eb88468a5 id-cdba7934956e4f9aaceb2823c2724ef1 id-3c5c7e945bd245929216c484b54854e0">
+      targetConnections="id-06c49d4ca0ef442f813208fecc551087 id-47b7d51f502044d9a6d23151a11c5e8e id-766a45aee82a41c4a26d6b0eb88468a5 id-cdba7934956e4f9aaceb2823c2724ef1 id-3c5c7e945bd245929216c484b54854e0 id-29cdc7b704634bbe9bc7880cf7ccc50a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-47b7d51f502044d9a6d23151a11c5e8e"
@@ -171,9 +171,9 @@
         source="id-8b33f7c0d8fe4900b91e14c1a11ffe95"
         target="id-8b33f7c0d8fe4900b91e14c1a11ffe95">
       <bendpoints
-          startX="-36"
+          startX="-24"
           startY="64"
-          endX="-36"
+          endX="-24"
           endY="64"/>
       <bendpoints
           startX="-96"
@@ -188,6 +188,30 @@
       <archimateRelationship
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-22ad56e8d04a42b79fbd25f4f5c37c3a.xml#id-22ad56e8d04a42b79fbd25f4f5c37c3a"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-29cdc7b704634bbe9bc7880cf7ccc50a"
+        source="id-8b33f7c0d8fe4900b91e14c1a11ffe95"
+        target="id-8b33f7c0d8fe4900b91e14c1a11ffe95">
+      <bendpoints
+          startX="-96"
+          startY="-20"
+          endX="-96"
+          endY="-20"/>
+      <bendpoints
+          startX="-96"
+          startY="-68"
+          endX="-96"
+          endY="-68"/>
+      <bendpoints
+          startX="-24"
+          startY="-68"
+          endX="-24"
+          endY="-68"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-7c87c7d263e047fc96f9691e3a64573b.xml#id-7c87c7d263e047fc96f9691e3a64573b"/>
     </sourceConnections>
     <bounds
         x="588"

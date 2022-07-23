@@ -1,13 +1,13 @@
-<archimate:AggregationRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="is aggregatie van"
-    id="id-22ad56e8d04a42b79fbd25f4f5c37c3a"
-    documentation="bijvoorbeeld bij een kadestraal perceel in relatie tot WOZ objecten waarbij er sprake kan zijn van een N op M relatie. Deze relatie is met name van toepassing bij overlappende (verzameling van) fysieke met (binnen) een functionele object.">
+    name="is onderdeel van"
+    id="id-7c87c7d263e047fc96f9691e3a64573b"
+    documentation="Bijvoorbeeld bij een gebouw waarbinnen meerdere verblijfsobjecten te herkennen zijn. Deze relatie is met name van toepassing waarbij er sprake is van een verzameling van fysieke objecten binnen een ander fysiek object">
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
-</archimate:AggregationRelationship>
+</archimate:CompositionRelationship>
