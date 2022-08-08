@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Object 2D geometrie"
     id="id-4829da7ddcd9476d8d019bcb53435e99"
-    documentation="2D Coordinaten (x,y) van een objectype op maaiveld niveau">
+    documentation="2D Coordinaten (x,y) van een objectype op maaiveld niveau (punt, vlak of polygoon)">
   <profiles
       href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
 </archimate:BusinessObject>
