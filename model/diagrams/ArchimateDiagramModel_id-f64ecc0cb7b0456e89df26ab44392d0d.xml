@@ -94,7 +94,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-639cd806da174b80b6351c5376814332"
-      targetConnections="id-594c3ba8d113492b9c3ac6995fe7def3 id-0f86b4065505417fa24cce633dcc4d2f">
+      targetConnections="id-594c3ba8d113492b9c3ac6995fe7def3 id-0f86b4065505417fa24cce633dcc4d2f id-28cd857ce3094023a1beda48abc6cbaf">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1737de1592a94d509ce3a5764141fdc7"
@@ -136,6 +136,30 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-34edf53be4bc45a2adde8521cbea2812.xml#id-34edf53be4bc45a2adde8521cbea2812"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-28cd857ce3094023a1beda48abc6cbaf"
+        source="id-639cd806da174b80b6351c5376814332"
+        target="id-639cd806da174b80b6351c5376814332">
+      <bendpoints
+          startX="-34"
+          startY="-69"
+          endX="-34"
+          endY="-69"/>
+      <bendpoints
+          startX="-106"
+          startY="-69"
+          endX="-106"
+          endY="-69"/>
+      <bendpoints
+          startX="-106"
+          startY="3"
+          endX="-106"
+          endY="3"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-5bd129217b264c72a348829c56aa0147.xml#id-5bd129217b264c72a348829c56aa0147"/>
     </sourceConnections>
     <bounds
         x="322"
@@ -216,7 +240,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-efb64c9034014eb0b2ac8fc84d7cf3a2"
       textAlignment="1"
-      content="Voorbeeld:&#xA;- Functioneel object = verblijfsobject (attribuut: woonfunctie; met subtype: 2-onder-1-kap))&#xA;&#xA;Heeft relatie met:&#xA;- Functioneel Object = Nummer aanduiding (adres)&#xA;&#xA;hier hoort bij:&#xA;- Object 3D geometrie = Gebouw (woning)&#xA;&#xA;Is onderdeel van:&#xA;- Object 3D geometrie = Gebouwblok (2-onder-1-kap woning)&#xA;&#xA;Hier hoort bij (1 of meerdere):&#xA;- Object 2D geometrie = Gebouwzone &#xA;&#xA;&#xA;Hoe zit het met perceel c.q. kadastraal object? Een gebouwzone ligt binnen een perceel ...&#xA;&#xA;Klopt het dat een WOZ object feitelijk een samenstelling is zoals hierboven geschetst waarbij de totale gebouwzone, de grote van het perceel (waar in de SOR?) de basis vormt? Door toevoeging van attributen zoals staat van het object en de uiteindelijke WOZ waarde is er een informatieproduct gemaakt.&#xA;">
+      content="Voorbeeld:&#xA;- Functioneel object = verblijfsobject (attribuut: woonfunctie; met subtype: 2-onder-1-kap))&#xA;&#xA;Verblijfsobject heeft relatie met:&#xA;- Functioneel Object = Nummer aanduiding (adres)&#xA;&#xA;Bij Verblijfsobject hoort:&#xA;- Object 3D geometrie = Gebouw (woning)&#xA;&#xA;Gebouw is onderdeel van:&#xA;- Object 3D geometrie = Gebouwblok (2-onder-1-kap woning)&#xA;&#xA;Bij verblijfsobject hoort (1 of meerdere):&#xA;- Object 2D geometrie = Gebouwzone&#xA;&#xA;Gebouwzone ligt op:&#xA;- Object 2D geometrie = Bouwlaag&#xA;&#xA;Hoe zit het met perceel c.q. kadastraal object? Een gebouwzone ligt binnen een perceel ...&#xA;&#xA;Klopt het dat een WOZ object feitelijk een samenstelling is zoals hierboven geschetst waarbij de totale gebouwzone, de grote van het perceel (waar in de SOR?) de basis vormt? Door toevoeging van attributen zoals staat van het object en de uiteindelijke WOZ waarde is er een informatieproduct gemaakt.&#xA;">
     <bounds
         x="168"
         y="420"
