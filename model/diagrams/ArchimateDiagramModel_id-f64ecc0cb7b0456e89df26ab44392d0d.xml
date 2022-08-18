@@ -242,9 +242,9 @@
       textAlignment="1"
       content="Voorbeeld:&#xA;- Functioneel object = verblijfsobject (attribuut: woonfunctie; met subtype: 2-onder-1-kap))&#xA;&#xA;Verblijfsobject heeft relatie met:&#xA;- Functioneel Object = Nummer aanduiding (adres)&#xA;&#xA;Bij Verblijfsobject hoort:&#xA;- Object 3D geometrie = Gebouw (woning)&#xA;&#xA;Gebouw is onderdeel van:&#xA;- Object 3D geometrie = Gebouwblok (2-onder-1-kap woning)&#xA;&#xA;Bij verblijfsobject hoort (1 of meerdere):&#xA;- Object 2D geometrie = Gebouwzone&#xA;&#xA;Gebouwzone ligt op:&#xA;- Object 2D geometrie = Bouwlaag&#xA;&#xA;Hoe zit het met perceel c.q. kadastraal object? Een gebouwzone ligt binnen een perceel ...&#xA;&#xA;Klopt het dat een WOZ object feitelijk een samenstelling is zoals hierboven geschetst waarbij de totale gebouwzone, de grote van het perceel (waar in de SOR?) de basis vormt? Door toevoeging van attributen zoals staat van het object en de uiteindelijke WOZ waarde is er een informatieproduct gemaakt.&#xA;">
     <bounds
-        x="168"
+        x="108"
         y="420"
-        width="433"
+        width="564"
         height="385"/>
   </children>
 </archimate:ArchimateDiagramModel>
