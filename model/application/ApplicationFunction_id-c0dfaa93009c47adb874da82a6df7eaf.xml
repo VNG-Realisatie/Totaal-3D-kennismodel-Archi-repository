@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Functie"
+    id="id-c0dfaa93009c47adb874da82a6df7eaf"
+    documentation="Beschrijft het gedrag (functie) van de container">
+  <properties
+      key="stereotype"
+      value="Service / Database / Restful API"/>
+  <properties
+      key="specialisatie"
+      value="&lt;&lt;Container>>"/>
+</archimate:ApplicationFunction>
