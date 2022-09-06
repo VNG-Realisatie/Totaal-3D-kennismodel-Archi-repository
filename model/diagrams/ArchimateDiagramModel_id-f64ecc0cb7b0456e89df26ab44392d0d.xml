@@ -123,7 +123,7 @@
         target="id-55decde0ec97478187e574f86dcb43de">
       <bendpoints
           startY="-165"
-          endX="-132"
+          endX="-192"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
@@ -147,9 +147,8 @@
         source="id-639cd806da174b80b6351c5376814332"
         target="id-55decde0ec97478187e574f86dcb43de">
       <bendpoints
-          startX="2"
           startY="-165"
-          endX="132"
+          endX="168"
           endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
@@ -177,7 +176,7 @@
           href="SpecializationRelationship_id-cadfb7bb84144679a741f9c069aca50b.xml#id-cadfb7bb84144679a741f9c069aca50b"/>
     </sourceConnections>
     <bounds
-        x="-96"
+        x="-108"
         y="288"
         width="120"
         height="55"/>
@@ -199,7 +198,7 @@
           href="SpecializationRelationship_id-d5f0c9f17613420a864e9fa1d55e562a.xml#id-d5f0c9f17613420a864e9fa1d55e562a"/>
     </sourceConnections>
     <bounds
-        x="84"
+        x="119"
         y="288"
         width="120"
         height="55"/>
