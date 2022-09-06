@@ -1,7 +1,7 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ligt in"
+    name="hoort bij"
     id="id-d4ce0be7964045ebaa61f3ea4655e528">
   <source
       xsi:type="archimate:BusinessObject"
