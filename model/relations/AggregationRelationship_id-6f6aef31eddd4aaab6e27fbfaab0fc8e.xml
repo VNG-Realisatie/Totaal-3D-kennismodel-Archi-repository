@@ -1,11 +1,11 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="hoort bij / is subtype van"
-    id="id-d4ce0be7964045ebaa61f3ea4655e528">
+    name="is deel van"
+    id="id-6f6aef31eddd4aaab6e27fbfaab0fc8e">
   <source
-      xsi:type="archimate:BusinessObject"
-      href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-1ec114a4ba174113ad75ef87f5f220fd.xml#id-1ec114a4ba174113ad75ef87f5f220fd"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>
