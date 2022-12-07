@@ -34,10 +34,20 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-92cf469d363e431284d57dd35fcd7443.xml#id-92cf469d363e431284d57dd35fcd7443"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a20461ca8fc94695b726e2d396672c9a"
+        source="id-b8695b197705425b979c646495161158"
+        target="id-dc5510d80e5a49309f0bf63b483d7b93">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_id-0ef24282545e455a990adff78e6e3464.xml#id-0ef24282545e455a990adff78e6e3464"/>
+    </sourceConnections>
     <bounds
         x="70"
+        y="-84"
         width="612"
-        height="121"/>
+        height="205"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-abb2714cedc14438954112ff1e7fb87a"
@@ -60,9 +70,18 @@
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-bc72d73f5fa44bdf973f9a8299bc91c0.xml#id-bc72d73f5fa44bdf973f9a8299bc91c0"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-23d4317a15374ddcbd052c207408292c"
+          source="id-abb2714cedc14438954112ff1e7fb87a"
+          target="id-dc5510d80e5a49309f0bf63b483d7b93">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-ea003334e086444891e38508866b0836.xml#id-ea003334e086444891e38508866b0836"/>
+      </sourceConnections>
       <bounds
           x="228"
-          y="36"
+          y="120"
           width="144"
           height="60"/>
       <archimateElement
@@ -75,7 +94,7 @@
         targetConnections="id-29bc478740524ebf9bb105837a65224b id-5f3978180b9943c6a2466bd2881a5e6e">
       <bounds
           x="444"
-          y="36"
+          y="120"
           width="144"
           height="60"/>
       <archimateElement
@@ -88,12 +107,25 @@
         targetConnections="id-3a03cb8933604f68ab69deff501879b6 id-5f7a59d565ce4300b1f52191f7de2ebb">
       <bounds
           x="24"
-          y="36"
+          y="120"
           width="144"
           height="60"/>
       <archimateElement
           xsi:type="archimate:DataObject"
           href="DataObject_id-b1f1d497875f47bcb793e8bf8c3f9549.xml#id-b1f1d497875f47bcb793e8bf8c3f9549"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-dc5510d80e5a49309f0bf63b483d7b93"
+        targetConnections="id-a20461ca8fc94695b726e2d396672c9a id-23d4317a15374ddcbd052c207408292c">
+      <bounds
+          x="228"
+          y="24"
+          width="144"
+          height="61"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-2b05ca38e8f74e7fa62a2812bfc9c2e6.xml#id-2b05ca38e8f74e7fa62a2812bfc9c2e6"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -629,6 +661,18 @@
         y="144"
         width="157"
         height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b713ba44a6ab4290a1482332000df551"
+      textAlignment="1"
+      fillColor="#fefc78"
+      content="Op deze laag vind de ontsluiting naar actoren/rollen/processen/functies plaats op de bedrijfslaag">
+    <bounds
+        x="744"
+        y="-72"
+        width="157"
+        height="85"/>
   </children>
   <properties
       key="Publiceren"
