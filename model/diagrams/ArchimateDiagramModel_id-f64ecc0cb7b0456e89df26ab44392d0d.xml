@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SOR begrippen metamodel"
+    name="T3D begrippen metamodel"
     id="id-f64ecc0cb7b0456e89df26ab44392d0d">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -212,13 +212,13 @@
       textAlignment="1"
       content="Volgens de NEN3610  heeft een fysiek object vier subtypes: bodem, oppervlakte water, begroeing en constructie. In de SOR is er echter voor gekozen om 4 vergelijkbare categorienen te hanteren voor zowel fysieke als functionele objecten.&#xA;&#xA;Bovendien is binnen de NEN 3610 voor functionele ruimte alleen een specialisatie naar transportruimtes (spoor, weg, scheepvaart, luchtvaart en waterverplaatsing)&#xA;&#xA;(BdD)">
     <sourceConnections
-        id="id-e9463bb7fb7a40ad998ae1cef752e170"
-        source="id-809b3764ec23407f862962df80bb407a"
-        target="id-639cd806da174b80b6351c5376814332"/>
-    <sourceConnections
         id="id-9a34e380bb024d79b2ceb2650b13a479"
         source="id-809b3764ec23407f862962df80bb407a"
         target="id-e90c0cdf288e4a48afda2930d0e466e9"/>
+    <sourceConnections
+        id="id-e9463bb7fb7a40ad998ae1cef752e170"
+        source="id-809b3764ec23407f862962df80bb407a"
+        target="id-639cd806da174b80b6351c5376814332"/>
     <bounds
         x="350"
         y="276"
