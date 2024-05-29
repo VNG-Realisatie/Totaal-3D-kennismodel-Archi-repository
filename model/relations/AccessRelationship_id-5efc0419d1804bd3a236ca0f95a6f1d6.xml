@@ -4,6 +4,9 @@
     name="bewerkt"
     id="id-5efc0419d1804bd3a236ca0f95a6f1d6"
     accessType="3">
+  <properties
+      key="Object ID"
+      value="836a776d-277f-47f9-9c5d-00de7e0de134"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-6a54abc652014a3e9bb33f27e5db4ac1.xml#id-6a54abc652014a3e9bb33f27e5db4ac1"/>

@@ -4,6 +4,9 @@
     name="toont"
     id="id-10c32bdfb4e44e348f15bcee68333d0a"
     accessType="2">
+  <properties
+      key="Object ID"
+      value="9b5f6413-31f2-42e5-896a-a777cdbe2528"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-3ffb276023814a8aa5d18586c5d3304b.xml#id-3ffb276023814a8aa5d18586c5d3304b"/>

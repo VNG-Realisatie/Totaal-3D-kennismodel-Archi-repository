@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="brongegeven"
-    id="id-8b39afec58164e2b88a87b6bb664a093"/>
+    id="id-8b39afec58164e2b88a87b6bb664a093">
+  <properties
+      key="Object ID"
+      value="1ac2863d-321f-4445-8534-541e449ecd41"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontsluiting"
-    id="id-5ca26b26ab904fe6a6feb94b900afac8"/>
+    id="id-5ca26b26ab904fe6a6feb94b900afac8">
+  <properties
+      key="Object ID"
+      value="53ab8c14-5142-4b05-b182-0151dc139450"/>
+</archimate:Grouping>

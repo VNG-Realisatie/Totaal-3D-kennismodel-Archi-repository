@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is subfunctie van"
     id="id-06177d10825d445ca85992ec37df64c9">
+  <properties
+      key="Object ID"
+      value="5467b9c9-ded8-4396-a967-afd9e9c3df58"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-c0dfaa93009c47adb874da82a6df7eaf.xml#id-c0dfaa93009c47adb874da82a6df7eaf"/>

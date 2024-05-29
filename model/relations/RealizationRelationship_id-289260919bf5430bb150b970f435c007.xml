@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="maakt zichtbaar"
     id="id-289260919bf5430bb150b970f435c007">
+  <properties
+      key="Object ID"
+      value="63edb530-efce-455c-af13-39a5abe18ca9"/>
   <source
       xsi:type="archimate:Representation"
       href="Representation_id-4c09d711556f4eef8f840fe8bcc4d05c.xml#id-4c09d711556f4eef8f840fe8bcc4d05c"/>

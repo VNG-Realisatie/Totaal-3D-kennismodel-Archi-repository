@@ -1,4 +1,8 @@
 <archimate:Representation
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie drager"
-    id="id-4c09d711556f4eef8f840fe8bcc4d05c"/>
+    id="id-4c09d711556f4eef8f840fe8bcc4d05c">
+  <properties
+      key="Object ID"
+      value="6f902c4b-3755-4ccb-956f-37761c8ed73f"/>
+</archimate:Representation>

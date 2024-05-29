@@ -4,6 +4,9 @@
     name="verwerkt"
     id="id-99f6324cca464f8895e73e6c413b1862"
     accessType="3">
+  <properties
+      key="Object ID"
+      value="3bfe7550-01eb-4fea-abbb-728b66410fad"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-d030da1d7c6a4e8eaaa2e4c1e6f40c22.xml#id-d030da1d7c6a4e8eaaa2e4c1e6f40c22"/>

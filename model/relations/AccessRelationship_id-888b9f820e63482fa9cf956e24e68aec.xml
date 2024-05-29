@@ -4,6 +4,9 @@
     name="verwerkt"
     id="id-888b9f820e63482fa9cf956e24e68aec"
     accessType="3">
+  <properties
+      key="Object ID"
+      value="d55d9978-932d-4764-95a5-effb9287680b"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-6a80206354e544038579c0b6f27224a9.xml#id-6a80206354e544038579c0b6f27224a9"/>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="realiseert"
     id="id-22c282e024f3441d828204033e40a051">
+  <properties
+      key="Object ID"
+      value="ffaba3e7-4259-44fb-be43-eb6f68611d33"/>
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-c0dfaa93009c47adb874da82a6df7eaf.xml#id-c0dfaa93009c47adb874da82a6df7eaf"/>

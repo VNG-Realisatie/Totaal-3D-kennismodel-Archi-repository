@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="heeft"
     id="id-e16d6c22bb464e348fc88313d61dd026">
+  <properties
+      key="Object ID"
+      value="dad477c2-d11f-42d4-968d-be7c63817767"/>
   <source
       xsi:type="archimate:BusinessActor"
       href="BusinessActor_id-7284d6f6c6714cc49cddfbc7f5c81ef9.xml#id-7284d6f6c6714cc49cddfbc7f5c81ef9"/>

@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is onderdeel van"
     id="id-a94dd1c11a7c4bf7ab8cffff5dca45ab">
+  <properties
+      key="Object ID"
+      value="bc843a5d-abe1-40bb-bf0b-33771665effb"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-f580ee94b15e43169c78c8df7298b0ad.xml#id-f580ee94b15e43169c78c8df7298b0ad"/>

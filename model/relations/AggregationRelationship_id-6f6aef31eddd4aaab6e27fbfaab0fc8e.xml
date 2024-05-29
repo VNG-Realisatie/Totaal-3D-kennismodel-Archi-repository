@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is deel van"
     id="id-6f6aef31eddd4aaab6e27fbfaab0fc8e">
+  <properties
+      key="Object ID"
+      value="6ceba5c1-a382-4556-94ee-4b47a8828e31"/>
   <source
       xsi:type="archimate:Grouping"
       href="Grouping_id-1ec114a4ba174113ad75ef87f5f220fd.xml#id-1ec114a4ba174113ad75ef87f5f220fd"/>

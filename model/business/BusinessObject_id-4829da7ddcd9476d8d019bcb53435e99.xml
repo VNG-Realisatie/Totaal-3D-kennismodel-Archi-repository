@@ -3,6 +3,9 @@
     name="Fysiek object"
     id="id-4829da7ddcd9476d8d019bcb53435e99"
     documentation="Tastbare objecten waarvoor zowel 2D als 3D geometrie van het object worden vastgelegd.">
+  <properties
+      key="Object ID"
+      value="f22ec978-da24-4ab8-818f-3c60056718c5"/>
   <profiles
       href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
 </archimate:BusinessObject>

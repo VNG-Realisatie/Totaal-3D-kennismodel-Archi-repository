@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="voert uit"
     id="id-ccfe52178354480c9101e4bf864605be">
+  <properties
+      key="Object ID"
+      value="bec8ebbe-1e25-4811-af3d-6f2f380a0fab"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-66dc1471194c41659a43295dea917e2f.xml#id-66dc1471194c41659a43295dea917e2f"/>

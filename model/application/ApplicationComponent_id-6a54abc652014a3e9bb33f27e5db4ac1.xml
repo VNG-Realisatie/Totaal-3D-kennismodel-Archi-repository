@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logisch systeem component"
-    id="id-6a54abc652014a3e9bb33f27e5db4ac1"/>
+    id="id-6a54abc652014a3e9bb33f27e5db4ac1">
+  <properties
+      key="Object ID"
+      value="8147f76d-171d-47f2-ba48-d8841b11a15f"/>
+</archimate:ApplicationComponent>

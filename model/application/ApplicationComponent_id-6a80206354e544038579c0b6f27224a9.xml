@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bronsysteem component"
-    id="id-6a80206354e544038579c0b6f27224a9"/>
+    id="id-6a80206354e544038579c0b6f27224a9">
+  <properties
+      key="Object ID"
+      value="4117f964-8e61-4cdd-ba27-f4bcefba9d0c"/>
+</archimate:ApplicationComponent>

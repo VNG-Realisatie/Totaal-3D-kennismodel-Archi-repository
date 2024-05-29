@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bronnen"
-    id="id-7271c880e62f446bbafc6f6b4ec9f9b6"/>
+    id="id-7271c880e62f446bbafc6f6b4ec9f9b6">
+  <properties
+      key="Object ID"
+      value="8950c62d-41e1-42fc-a28c-5eaed19c0181"/>
+</archimate:Grouping>

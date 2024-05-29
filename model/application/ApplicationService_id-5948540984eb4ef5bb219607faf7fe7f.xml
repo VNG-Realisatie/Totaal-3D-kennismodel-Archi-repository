@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Feature service"
-    id="id-5948540984eb4ef5bb219607faf7fe7f"/>
+    id="id-5948540984eb4ef5bb219607faf7fe7f">
+  <properties
+      key="Object ID"
+      value="a4545ce7-38a4-4d41-b367-9be59ad50605"/>
+</archimate:ApplicationService>

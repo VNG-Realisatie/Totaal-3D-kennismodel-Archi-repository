@@ -4,6 +4,9 @@
     name="is onderdeel van"
     id="id-7c87c7d263e047fc96f9691e3a64573b"
     documentation="Bijvoorbeeld bij een gebouw waarbinnen meerdere verblijfsobjecten te herkennen zijn. Deze relatie is met name van toepassing waarbij er sprake is van een verzameling van fysieke objecten binnen een ander fysiek object">
+  <properties
+      key="Object ID"
+      value="4fe3ccb6-0b21-4fc1-a205-3a85faf6bb5e"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>

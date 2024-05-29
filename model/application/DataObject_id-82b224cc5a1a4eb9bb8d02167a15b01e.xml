@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="tijdelijk gegeven"
-    id="id-82b224cc5a1a4eb9bb8d02167a15b01e"/>
+    id="id-82b224cc5a1a4eb9bb8d02167a15b01e">
+  <properties
+      key="Object ID"
+      value="215b0c96-b6a3-4901-97a8-84eded066fae"/>
+</archimate:DataObject>

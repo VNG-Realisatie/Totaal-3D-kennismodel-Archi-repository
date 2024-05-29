@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="integratie component"
-    id="id-25704eb63ef541c0a31b9ff2aa9ac290"/>
+    id="id-25704eb63ef541c0a31b9ff2aa9ac290">
+  <properties
+      key="Object ID"
+      value="b0b2ad75-78a2-47db-9910-0f8e2959aa1b"/>
+</archimate:ApplicationComponent>

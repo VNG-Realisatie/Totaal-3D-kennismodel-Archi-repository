@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="is subtype van"
     id="id-46ecd024593e46a5a5a42feed2b10021">
+  <properties
+      key="Object ID"
+      value="d90c502b-c08f-4208-8cd7-37d60c8ecd87"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>

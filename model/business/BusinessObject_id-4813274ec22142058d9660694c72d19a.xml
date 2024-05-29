@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="T3D object"
     id="id-4813274ec22142058d9660694c72d19a"
-    documentation="Objecttypen zoals gedefinieerd in T3D conform niveau 1 in MIM"/>
+    documentation="Objecttypen zoals gedefinieerd in T3D conform niveau 1 in MIM">
+  <properties
+      key="Object ID"
+      value="50e8ff68-429a-4179-b81d-7e79fc82551f"/>
+</archimate:BusinessObject>

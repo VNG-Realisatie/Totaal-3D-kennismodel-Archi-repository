@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bericht"
-    id="id-c9c32a296c3c497e96eab11d371fbbb2"/>
+    id="id-c9c32a296c3c497e96eab11d371fbbb2">
+  <properties
+      key="Object ID"
+      value="fd6ff6c0-de7d-4a36-b967-682cbc6545f5"/>
+</archimate:DataObject>

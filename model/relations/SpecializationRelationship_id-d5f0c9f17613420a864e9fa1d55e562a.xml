@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="specialisatie van"
     id="id-d5f0c9f17613420a864e9fa1d55e562a">
+  <properties
+      key="Object ID"
+      value="fd0cf68c-db9e-4451-bccc-62965579ed12"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-ab1917067e8a4dfc91f0ef7024412932.xml#id-ab1917067e8a4dfc91f0ef7024412932"/>

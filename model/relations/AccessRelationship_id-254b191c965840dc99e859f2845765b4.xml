@@ -4,6 +4,9 @@
     name="verspreid"
     id="id-254b191c965840dc99e859f2845765b4"
     accessType="2">
+  <properties
+      key="Object ID"
+      value="8510316f-3119-424c-9b87-0cacf3cd9ebe"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-25704eb63ef541c0a31b9ff2aa9ac290.xml#id-25704eb63ef541c0a31b9ff2aa9ac290"/>

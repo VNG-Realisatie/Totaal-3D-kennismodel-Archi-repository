@@ -3,6 +3,9 @@
     name="Registratief Object"
     id="id-970bd10710e548ea85ae59ccde82e86c"
     documentation="NIet tastbaar object op basis van een (wettelijk) besluit.">
+  <properties
+      key="Object ID"
+      value="848c999b-cff8-4558-aa2b-01aeec3fd9d8"/>
   <profiles
       href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
 </archimate:BusinessObject>
