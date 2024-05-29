@@ -1,8 +1,4 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="systeem proces"
-    id="id-aa554620beae4def948c695ea80618e7">
-  <properties
-      key="Object ID"
-      value="71e665c9-f334-4a14-97a6-08ac77241418"/>
-</archimate:ApplicationProcess>
+    id="id-aa554620beae4def948c695ea80618e7"/>

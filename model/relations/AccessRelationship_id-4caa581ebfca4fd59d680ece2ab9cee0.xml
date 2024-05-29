@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="schrijft"
     id="id-4caa581ebfca4fd59d680ece2ab9cee0">
-  <properties
-      key="Object ID"
-      value="01caa75a-5401-4d13-9921-40edf039e69a"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-6a80206354e544038579c0b6f27224a9.xml#id-6a80206354e544038579c0b6f27224a9"/>

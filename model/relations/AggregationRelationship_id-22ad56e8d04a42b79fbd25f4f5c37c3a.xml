@@ -4,9 +4,6 @@
     name="is aggregatie van"
     id="id-22ad56e8d04a42b79fbd25f4f5c37c3a"
     documentation="bijvoorbeeld bij een kadestraal perceel in relatie tot WOZ objecten waarbij er sprake kan zijn van een N op M relatie. Deze relatie is met name van toepassing bij overlappende (verzameling van) fysieke met (binnen) een functionele object.">
-  <properties
-      key="Object ID"
-      value="39fde776-bab8-4cad-aa5c-3a7ee6de2e39"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>

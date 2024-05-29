@@ -3,9 +3,6 @@
     name="Virtueel object"
     id="id-281dcdd6057a4ad98248f1f0589affe0"
     documentation="Object definitie op basis van de SOR objecten">
-  <properties
-      key="Object ID"
-      value="579ac15b-fe51-4d42-81d3-c146313b2771"/>
   <profiles
       href="folder.xml#id-ab4d9d386e77413281dc774860e2687a"/>
 </archimate:BusinessObject>

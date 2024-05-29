@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="proceslogica component"
-    id="id-5ea46224ac95478391cdc6cd846b8056">
-  <properties
-      key="Object ID"
-      value="b3cf034f-d9cb-44bf-92ca-a36ec73788d4"/>
-</archimate:ApplicationComponent>
+    id="id-5ea46224ac95478391cdc6cd846b8056"/>

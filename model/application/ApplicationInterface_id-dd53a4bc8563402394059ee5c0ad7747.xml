@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Koppelvlak"
-    id="id-dd53a4bc8563402394059ee5c0ad7747">
-  <properties
-      key="Object ID"
-      value="82969219-eaa1-4864-ae61-517ad80c9866"/>
-</archimate:ApplicationInterface>
+    id="id-dd53a4bc8563402394059ee5c0ad7747"/>

@@ -1,8 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Functioneel object"
-    id="id-ab1917067e8a4dfc91f0ef7024412932">
-  <properties
-      key="Object ID"
-      value="c71995d8-f73d-4944-86a5-720b12eaf018"/>
-</archimate:BusinessObject>
+    id="id-ab1917067e8a4dfc91f0ef7024412932"/>

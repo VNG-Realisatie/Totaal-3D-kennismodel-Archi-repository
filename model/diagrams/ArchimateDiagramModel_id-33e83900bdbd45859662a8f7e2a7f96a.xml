@@ -5,8 +5,7 @@
     id="id-33e83900bdbd45859662a8f7e2a7f96a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8379a0ef779c4969b53bb307f1b1618c"
-      type="1">
+      id="id-8379a0ef779c4969b53bb307f1b1618c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-24e70fa660bc441f992982afae7cc90d"
@@ -28,8 +27,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e054131c890341e48605c487253b26ff"
-      targetConnections="id-24e70fa660bc441f992982afae7cc90d id-d635706829fa42a7bf1f61e22cc54c2e id-d16ae16d64ab498680c805099ca5d5e1"
-      type="1">
+      targetConnections="id-24e70fa660bc441f992982afae7cc90d id-d635706829fa42a7bf1f61e22cc54c2e id-d16ae16d64ab498680c805099ca5d5e1">
     <bounds
         x="171"
         y="48"
@@ -41,8 +39,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-78ece48971a24355b6ba6f29ff40ed8f"
-      type="1">
+      id="id-78ece48971a24355b6ba6f29ff40ed8f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d635706829fa42a7bf1f61e22cc54c2e"
@@ -63,8 +60,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e8b9537001fd45eaaf2e986f7d8c352e"
-      type="1">
+      id="id-e8b9537001fd45eaaf2e986f7d8c352e">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-d16ae16d64ab498680c805099ca5d5e1"
@@ -85,8 +81,5 @@
   </children>
   <properties
       key="Publiceren"
-      value="GEMMA Online en redactie"/>
-  <properties
-      key="Object ID"
-      value="e5718f0a-7c16-456f-89e1-4cbc8e4af96d"/>
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

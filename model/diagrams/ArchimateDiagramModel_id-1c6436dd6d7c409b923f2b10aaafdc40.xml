@@ -18,7 +18,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-aded63db780243bab8cfd3677254104a">
+      id="id-aded63db780243bab8cfd3677254104a"
+      type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;&#xD;&#xA;${documentation}"/>
@@ -52,7 +53,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-caa8a9a34a344aed8414e7144005375a"
-      targetConnections="id-a5367c23dc2b4417bc05fcc3eff97612 id-61245ee0cb524a7f94a709698adf9589 id-c6e32a614ecc487f879cd274962660c6">
+      targetConnections="id-a5367c23dc2b4417bc05fcc3eff97612 id-61245ee0cb524a7f94a709698adf9589 id-c6e32a614ecc487f879cd274962660c6"
+      type="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;&#xD;&#xA;${documentation}"/>
@@ -214,8 +216,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7cca452d43d44ed1ae7b1351fe9ac2d6"
-      type="1">
+      id="id-7cca452d43d44ed1ae7b1351fe9ac2d6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a5367c23dc2b4417bc05fcc3eff97612"
@@ -277,8 +278,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-513b5c6209e24b32a7df3116206a4e7a"
-      type="1">
+      id="id-513b5c6209e24b32a7df3116206a4e7a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-23124bdf305844fba669b9c6abf40402"
@@ -299,8 +299,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d2f2809abcaa43eab120bd2e4995fe98"
-      type="1">
+      id="id-d2f2809abcaa43eab120bd2e4995fe98">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-eee3030adfdb413fa9b3199349faf074"
@@ -330,8 +329,5 @@
   </children>
   <properties
       key="Publiceren"
-      value="GEMMA Online en redactie"/>
-  <properties
-      key="Object ID"
-      value="a8166cc9-27e5-4c06-8055-8a0f76cfd6e2"/>
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>

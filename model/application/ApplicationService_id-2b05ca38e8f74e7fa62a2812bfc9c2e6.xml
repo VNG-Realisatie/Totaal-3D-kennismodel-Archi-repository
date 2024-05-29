@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presentatie / interactie Service (GUI)"
-    id="id-2b05ca38e8f74e7fa62a2812bfc9c2e6">
-  <properties
-      key="Object ID"
-      value="bc220cc4-f2d5-440c-8050-6ed366868835"/>
-</archimate:ApplicationService>
+    id="id-2b05ca38e8f74e7fa62a2812bfc9c2e6"/>

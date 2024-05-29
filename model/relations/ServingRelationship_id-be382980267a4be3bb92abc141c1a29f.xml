@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bedient"
     id="id-be382980267a4be3bb92abc141c1a29f">
-  <properties
-      key="Object ID"
-      value="5e8541c6-6767-4db8-9681-0eb2d5aee8fd"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-dd53a4bc8563402394059ee5c0ad7747.xml#id-dd53a4bc8563402394059ee5c0ad7747"/>

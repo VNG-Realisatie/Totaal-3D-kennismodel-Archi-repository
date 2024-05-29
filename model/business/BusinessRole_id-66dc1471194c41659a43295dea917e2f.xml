@@ -1,8 +1,4 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="proces rol"
-    id="id-66dc1471194c41659a43295dea917e2f">
-  <properties
-      key="Object ID"
-      value="b09b00a1-01fc-4f59-b48d-df8a53651e44"/>
-</archimate:BusinessRole>
+    id="id-66dc1471194c41659a43295dea917e2f"/>

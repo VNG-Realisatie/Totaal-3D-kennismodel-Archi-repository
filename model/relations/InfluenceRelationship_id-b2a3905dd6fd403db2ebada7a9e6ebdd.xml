@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="voldoet aan"
     id="id-b2a3905dd6fd403db2ebada7a9e6ebdd">
-  <properties
-      key="Object ID"
-      value="af82a837-3f77-4de9-b439-55c9c2e463b5"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-0a4bf13242a44c81acf91689be5d6013.xml#id-0a4bf13242a44c81acf91689be5d6013"/>

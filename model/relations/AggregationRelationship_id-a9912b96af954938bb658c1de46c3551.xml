@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="bevat"
     id="id-a9912b96af954938bb658c1de46c3551">
-  <properties
-      key="Object ID"
-      value="ce7b5e98-91b4-46cd-bf2f-93cfe576d9c3"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>

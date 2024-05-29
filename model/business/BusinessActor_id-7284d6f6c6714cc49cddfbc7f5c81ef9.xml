@@ -1,8 +1,4 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ketenpartner"
-    id="id-7284d6f6c6714cc49cddfbc7f5c81ef9">
-  <properties
-      key="Object ID"
-      value="16c4e264-f51f-400b-a8d0-3bdaf93df410"/>
-</archimate:BusinessActor>
+    id="id-7284d6f6c6714cc49cddfbc7f5c81ef9"/>

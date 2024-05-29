@@ -4,9 +4,6 @@
     name="verstuurd"
     id="id-7a3dc87877c14f0e8c4caefd720d4006"
     accessType="2">
-  <properties
-      key="Object ID"
-      value="93237581-f289-414e-8134-dac9bf4d135a"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-dd53a4bc8563402394059ee5c0ad7747.xml#id-dd53a4bc8563402394059ee5c0ad7747"/>

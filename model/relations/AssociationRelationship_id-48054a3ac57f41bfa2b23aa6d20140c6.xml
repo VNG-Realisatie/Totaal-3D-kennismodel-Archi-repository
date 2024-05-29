@@ -4,9 +4,6 @@
     name="heeft relatie met / hoort bij"
     id="id-48054a3ac57f41bfa2b23aa6d20140c6"
     directed="true">
-  <properties
-      key="Object ID"
-      value="dc426ab2-3c06-4f5a-bbea-6e9759356e74"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-4813274ec22142058d9660694c72d19a.xml#id-4813274ec22142058d9660694c72d19a"/>

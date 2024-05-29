@@ -1,8 +1,4 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Keten proces"
-    id="id-f580ee94b15e43169c78c8df7298b0ad">
-  <properties
-      key="Object ID"
-      value="4e48a97a-fab3-4274-b3cf-0c19ed68ff28"/>
-</archimate:BusinessProcess>
+    id="id-f580ee94b15e43169c78c8df7298b0ad"/>

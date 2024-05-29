@@ -4,9 +4,6 @@
     name="wordt uitgewisseld via"
     id="id-f738aef6a8b8455f923ba370cd78ef9f"
     directed="true">
-  <properties
-      key="Object ID"
-      value="fc3f1bf7-0c6e-48d8-aee8-478421fc0f90"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-c9c32a296c3c497e96eab11d371fbbb2.xml#id-c9c32a296c3c497e96eab11d371fbbb2"/>

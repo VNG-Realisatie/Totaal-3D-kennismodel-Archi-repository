@@ -6,8 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55decde0ec97478187e574f86dcb43de"
-      targetConnections="id-226f91cc4a0d4ba181fcaaf8dd102cc6 id-c78657a818ef486ebf2d391b2d5a5738 id-1737de1592a94d509ce3a5764141fdc7 id-33a210184b4548c382ad73317a36581a id-0274c6bea4a3438faf2677f813e5b663 id-6e3c15446ddf40768bdb984708337e7c id-3120cd66c43641e5a0e71551dae4607f id-c727be5896b74e5faed836e7c96553d9"
-      type="1">
+      targetConnections="id-226f91cc4a0d4ba181fcaaf8dd102cc6 id-c78657a818ef486ebf2d391b2d5a5738 id-1737de1592a94d509ce3a5764141fdc7 id-33a210184b4548c382ad73317a36581a id-0274c6bea4a3438faf2677f813e5b663 id-6e3c15446ddf40768bdb984708337e7c id-3120cd66c43641e5a0e71551dae4607f id-c727be5896b74e5faed836e7c96553d9">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-226f91cc4a0d4ba181fcaaf8dd102cc6"
@@ -116,8 +115,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d52b77271e1f4c9292e7a917af15f4a3"
-      targetConnections="id-39ac852165a3490d9dcb39fad4a313d8 id-0251228737084dde8dcd4222e8d83582"
-      type="1">
+      targetConnections="id-39ac852165a3490d9dcb39fad4a313d8 id-0251228737084dde8dcd4222e8d83582">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-33a210184b4548c382ad73317a36581a"
@@ -142,8 +140,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-639cd806da174b80b6351c5376814332"
-      targetConnections="id-e9463bb7fb7a40ad998ae1cef752e170"
-      type="1">
+      targetConnections="id-e9463bb7fb7a40ad998ae1cef752e170">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-1737de1592a94d509ce3a5764141fdc7"
@@ -168,8 +165,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-66cd12a13cab425aaa48abe29407f91c"
-      type="1">
+      id="id-66cd12a13cab425aaa48abe29407f91c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-39ac852165a3490d9dcb39fad4a313d8"
@@ -191,8 +187,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e90c0cdf288e4a48afda2930d0e466e9"
-      targetConnections="id-9a34e380bb024d79b2ceb2650b13a479"
-      type="1">
+      targetConnections="id-9a34e380bb024d79b2ceb2650b13a479">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0251228737084dde8dcd4222e8d83582"
@@ -249,8 +244,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-19e322d32d7549b9804ec5b2dbcc0b7e"
       textAlignment="1"
-      fillColor="#fefcca"
-      type="1">
+      fillColor="#fefcca">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3120cd66c43641e5a0e71551dae4607f"
@@ -271,8 +265,5 @@
   </children>
   <properties
       key="Publiceren"
-      value="GEMMA Online en redactie"/>
-  <properties
-      key="Object ID"
-      value="955eb833-2364-49d6-a5ee-434bfa0587a5"/>
+      value="Gemma Online en redactie"/>
 </archimate:ArchimateDiagramModel>
