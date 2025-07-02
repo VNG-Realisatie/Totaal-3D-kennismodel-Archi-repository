@@ -1,3 +1,9 @@
+| Eigenaar | Ingevuld door |
+| --- | --- |
+| Team GDI | Bart den Dulk |
+<hr/>
+
+
 # Totaal 3D kennismodel 
 
 
