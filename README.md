@@ -3,10 +3,7 @@
 | Team GDI | Bart den Dulk |
 <hr/>
 
-
 # Totaal 3D kennismodel 
-
-
 
 ## Getting started
 
