@@ -1,6 +1,6 @@
 | Eigenaar | Ingevuld door |
 | --- | --- |
-| Team GDI | Marcel Rietdijk |
+| Team Digitale Overheid en Dienstverlening (DoD) / cluster Regie Geo-informatie | Marcel Rietdijk |
 <hr/>
 
 # Totaal 3D kennismodel 
